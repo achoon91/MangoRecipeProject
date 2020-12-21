@@ -2,7 +2,7 @@
 ThirdTeamProject
 프로젝트 소개
 
-프로젝트명 : 쌍용인력센터
+프로젝트명 : MangoRecipeProject
 중략 : Spring 기반의 음식(맛집,레시피,최저가,마트정보) 사이트 구현
 주요 기능
 1. 회원가입/ 로그인
